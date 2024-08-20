@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from datetime import datetime
 from collections import defaultdict
 
@@ -15,6 +16,8 @@ class bcolors:
     BOLD = "\033[1m"
     UNDERLINE = "\033[4m"
 
+
+t1 = time.time()
 
 input_directory = r"C:\Users\chris\CUSIP-Set"
 output_directory = r"C:\Users\chris\CUSIP-Timeseries"
@@ -56,6 +59,9 @@ for file_name in os.listdir(input_directory):
                     "eod_yield": entry["eod_yield"],
                 }
                 cusip_timeseries[cusip].append(to_write)
+
+        print(bcolors.OKBLUE + f"Saw {file_name}" + bcolors.ENDC)
+
     except Exception as e:
         print(bcolors.FAIL + f"FAILED {file_name} - {str(e)}" + bcolors.ENDC)
 
@@ -72,3 +78,5 @@ for cusip, timeseries in cusip_timeseries.items():
         )
     except Exception as e:
         print(bcolors.FAIL + f"FAILED to Write {cusip} to {output_file}" + bcolors.ENDC)
+
+print(f"Script took: {time.time() - t1} seconds")
