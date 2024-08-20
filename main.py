@@ -36,6 +36,8 @@ keys_to_include = [
     "eod_yield",
 ]
 
+""" Entire Dir """
+
 for file_name in os.listdir(input_directory):
     try:
         if file_name.endswith(".json"):
@@ -65,6 +67,38 @@ for file_name in os.listdir(input_directory):
     except Exception as e:
         print(bcolors.FAIL + f"FAILED {file_name} - {str(e)}" + bcolors.ENDC)
 
+""" Single File """
+
+# file_name = r"C:\Users\chris\CUSIP-Set\2024-08-19.json"
+# try:
+#     if file_name.endswith(".json"):
+#         file_path = os.path.join(input_directory, file_name)
+#         with open(file_path, "r") as json_file:
+#             daily_data = json.load(json_file)
+
+#         date_str = file_name.split(".json")[0]
+#         date = datetime.strptime(date_str, "%Y-%m-%d")
+
+#         for entry in daily_data["data"]:
+#             cusip = entry["cusip"]
+#             to_write = {
+#                 "Date": date_str,
+#                 "bid_price": entry["bid_price"],
+#                 "offer_price": entry["offer_price"],
+#                 "mid_price": entry["mid_price"],
+#                 "eod_price": entry["eod_price"],
+#                 "bid_yield": entry["bid_yield"],
+#                 "offer_yield": entry["offer_yield"],
+#                 "eod_yield": entry["eod_yield"],
+#             }
+#             cusip_timeseries[cusip].append(to_write)
+
+#     print(bcolors.OKBLUE + f"Saw {file_name}" + bcolors.ENDC)
+
+# except Exception as e:
+#     print(bcolors.FAIL + f"FAILED {file_name} - {str(e)}" + bcolors.ENDC)
+
+""""""
 
 for cusip, timeseries in cusip_timeseries.items():
     try:
