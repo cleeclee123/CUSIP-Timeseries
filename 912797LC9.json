@@ -771,12 +771,32 @@
     },
     {
         "Date": "2024-08-29",
-        "bid_price": 98.998,
-        "offer_price": 98.999,
-        "mid_price": 98.9985,
-        "eod_price": 99.011917,
-        "bid_yield": 5.443721426009921,
-        "offer_yield": 5.438187579079788,
-        "eod_yield": 5.3667252968445345
+        "bid_price": 99.023889,
+        "offer_price": 99.025833,
+        "mid_price": 99.024861,
+        "eod_price": 99.037833,
+        "bid_yield": 5.300521669754518,
+        "offer_yield": 5.289774368153868,
+        "eod_yield": 5.22345012327454
+    },
+    {
+        "Date": "2024-08-30",
+        "bid_price": 99.023889,
+        "offer_price": 99.025833,
+        "mid_price": 99.024861,
+        "eod_price": 99.037833,
+        "bid_yield": 5.544764480760738,
+        "offer_yield": 5.533515311761627,
+        "eod_yield": 5.464094511958734
+    },
+    {
+        "Date": "2024-09-03",
+        "bid_price": 99.091806,
+        "offer_price": 99.093611,
+        "mid_price": 99.0927085,
+        "eod_price": 0.0,
+        "bid_yield": 5.315379635767613,
+        "offer_yield": 5.304627779083155,
+        "eod_yield": null
     }
 ]
