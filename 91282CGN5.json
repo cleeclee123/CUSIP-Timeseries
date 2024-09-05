@@ -3794,9 +3794,19 @@
         "bid_price": 99.90625,
         "offer_price": 99.953125,
         "mid_price": 99.9296875,
-        "eod_price": 0.0,
+        "eod_price": 99.9375,
         "bid_yield": 4.820193594220679,
         "offer_yield": 4.720517468784006,
-        "eod_yield": 241583.73579654525
+        "eod_yield": 4.753732463644253
+    },
+    {
+        "Date": "2024-09-04",
+        "bid_price": 99.9375,
+        "offer_price": 0.0,
+        "mid_price": 49.96875,
+        "eod_price": 99.96875,
+        "bid_yield": 4.753873279434175,
+        "offer_yield": 212560.6879606741,
+        "eod_yield": 4.687093059280811
     }
 ]
