@@ -1155,8 +1155,8 @@
         "offer_price": 100.0,
         "mid_price": 100.0,
         "eod_price": 99.999278,
-        "bid_yield": 7.37741605868754e-09,
-        "offer_yield": 7.37741605868754e-09,
+        "bid_yield": 7.37741605868754e-9,
+        "offer_yield": 7.37741605868754e-9,
         "eod_yield": 0.020439279153978467
     },
     {
@@ -1185,9 +1185,9 @@
         "offer_price": 100.0,
         "mid_price": 100.0,
         "eod_price": 100.0,
-        "bid_yield": 6.162666283014556e-09,
-        "offer_yield": 6.162666283014556e-09,
-        "eod_yield": 6.162666283014556e-09
+        "bid_yield": 6.162666283014556e-9,
+        "offer_yield": 6.162666283014556e-9,
+        "eod_yield": 6.162666283014556e-9
     },
     {
         "Date": "2013-12-26",
@@ -1195,9 +1195,9 @@
         "offer_price": 100.0,
         "mid_price": 100.0,
         "eod_price": 100.0,
-        "bid_yield": 5.974726665986059e-09,
-        "offer_yield": 5.974726665986059e-09,
-        "eod_yield": 5.974726665986059e-09
+        "bid_yield": 5.974726665986059e-9,
+        "offer_yield": 5.974726665986059e-9,
+        "eod_yield": 5.974726665986059e-9
     },
     {
         "Date": "2013-12-27",
@@ -1205,9 +1205,9 @@
         "offer_price": 0.0,
         "mid_price": 50.0,
         "eod_price": 100.0,
-        "bid_yield": 5.4359603377766284e-09,
+        "bid_yield": 5.4359603377766284e-9,
         "offer_yield": null,
-        "eod_yield": 5.4359603377766284e-09
+        "eod_yield": 5.4359603377766284e-9
     },
     {
         "Date": "2013-12-30",
@@ -1215,9 +1215,9 @@
         "offer_price": 0.0,
         "mid_price": 50.0,
         "eod_price": 100.0,
-        "bid_yield": 5.265262830314059e-09,
+        "bid_yield": 5.265262830314059e-9,
         "offer_yield": null,
-        "eod_yield": 5.265262830314059e-09
+        "eod_yield": 5.265262830314059e-9
     },
     {
         "Date": "2013-12-31",
@@ -1227,6 +1227,6 @@
         "eod_price": 100.0,
         "bid_yield": 0.020609072499903434,
         "offer_yield": null,
-        "eod_yield": 5.097992642124705e-09
+        "eod_yield": 5.097992642124705e-9
     }
 ]
