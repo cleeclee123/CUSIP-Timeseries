@@ -1,47 +1,47 @@
 [
     {
         "Date": "2013-12-27",
-        "bid_price": 99.999333,
-        "offer_price": 100.0,
-        "mid_price": 99.99966649999999,
-        "eod_price": 99.999361,
-        "bid_yield": 0.010227638860010357,
-        "offer_yield": 1.0045978492458605e-8,
-        "mid_yield": 0.005113824452994424,
-        "eod_yield": 0.009798281234088754
-    },
-    {
-        "Date": "2013-12-30",
-        "bid_price": 99.999333,
-        "offer_price": 100.0,
-        "mid_price": 99.99966649999999,
-        "eod_price": 99.999361,
-        "bid_yield": 0.010672329973756169,
-        "offer_yield": 9.778096294679317e-9,
-        "mid_yield": 0.005336169875926232,
-        "eod_yield": 0.01022430364943734
-    },
-    {
-        "Date": "2013-12-31",
         "bid_price": 100.0,
         "offer_price": 100.0,
         "mid_price": 100.0,
         "eod_price": 100.0,
-        "bid_yield": 9.515535111929706e-9,
-        "offer_yield": 9.515535111929706e-9,
-        "mid_yield": 9.515535111929706e-9,
-        "eod_yield": 9.515535111929706e-9
+        "bid_yield": 0.0,
+        "offer_yield": 0.0,
+        "mid_yield": 0.0,
+        "eod_yield": 0.0
     },
     {
-        "Date": "2014-01-01",
+        "Date": "2013-12-30",
         "bid_price": 99.999361,
         "offer_price": 99.999681,
         "mid_price": 99.99952099999999,
         "eod_price": 99.998833,
-        "bid_yield": 0.01119807266966409,
-        "offer_yield": 0.0055901914709651605,
-        "mid_yield": 0.008394132070314624,
-        "eod_yield": 0.02045145964548119
+        "bid_yield": 0.009718187099317729,
+        "offer_yield": 0.004851473809605066,
+        "mid_yield": 0.007284830454461398,
+        "eod_yield": 0.017748332122963714
+    },
+    {
+        "Date": "2014-01-01",
+        "bid_price": 99.999333,
+        "offer_price": 100.0,
+        "mid_price": 99.99966649999999,
+        "eod_price": 99.999361,
+        "bid_yield": 0.011066210175375674,
+        "offer_yield": 0.0,
+        "mid_yield": 0.005533105087687837,
+        "eod_yield": 0.010601658653801157
+    },
+    {
+        "Date": "2014-01-02",
+        "bid_price": 99.999417,
+        "offer_price": 99.999708,
+        "mid_price": 99.9995625,
+        "eod_price": 99.998889,
+        "bid_yield": 0.010133154314489096,
+        "offer_yield": 0.005075252915006768,
+        "mid_yield": 0.007604203614747932,
+        "eod_yield": 0.019310452634271835
     },
     {
         "Date": "2014-01-03",
@@ -49,43 +49,43 @@
         "offer_price": 99.999722,
         "mid_price": 99.999583,
         "eod_price": 99.999528,
-        "bid_yield": 0.012036168476775484,
-        "offer_yield": 0.006017989471878099,
-        "mid_yield": 0.00902707897432679,
-        "eod_yield": 0.010217705044235092
+        "bid_yield": 0.010147056417690432,
+        "offer_yield": 0.00507351410426791,
+        "mid_yield": 0.007610285260979171,
+        "eod_yield": 0.008614040658308888
     },
     {
         "Date": "2014-01-06",
-        "bid_price": 99.999417,
-        "offer_price": 99.999708,
-        "mid_price": 99.9995625,
-        "eod_price": 99.998889,
-        "bid_yield": 0.013409496513563298,
-        "offer_yield": 0.006716130546572185,
-        "mid_yield": 0.010062813530067742,
-        "eod_yield": 0.025554782212854114
-    },
-    {
-        "Date": "2014-01-07",
         "bid_price": 99.999528,
         "offer_price": 99.999764,
         "mid_price": 99.999646,
         "eod_price": 99.999556,
-        "bid_yield": 0.011580103599610796,
-        "offer_yield": 0.0057899650674690314,
-        "mid_yield": 0.008685034333539914,
-        "eod_yield": 0.010893128532493997
+        "bid_yield": 0.010134165480363397,
+        "offer_yield": 0.00506707078183821,
+        "mid_yield": 0.007600618131100804,
+        "eod_yield": 0.009532983502953094
     },
     {
-        "Date": "2014-01-08",
+        "Date": "2014-01-07",
         "bid_price": 99.999556,
         "offer_price": 100.0,
         "mid_price": 99.99977799999999,
         "eod_price": 99.999583,
-        "bid_yield": 0.011671231066296351,
-        "offer_yield": 7.595429231187653e-9,
-        "mid_yield": 0.005835619330862791,
-        "eod_yield": 0.010961473575085187
+        "bid_yield": 0.010128794971887664,
+        "offer_yield": 0.0,
+        "mid_yield": 0.005064397485943832,
+        "eod_yield": 0.0095128521685657
+    },
+    {
+        "Date": "2014-01-08",
+        "bid_price": 99.999611,
+        "offer_price": 99.999806,
+        "mid_price": 99.9997085,
+        "eod_price": 99.999639,
+        "bid_yield": 0.00946570348821475,
+        "offer_yield": 0.004720675824616342,
+        "mid_yield": 0.007093189656415547,
+        "eod_yield": 0.008784365044843872
     },
     {
         "Date": "2014-01-09",
@@ -93,10 +93,10 @@
         "offer_price": 99.999792,
         "mid_price": 99.9996875,
         "eod_price": 99.999611,
-        "bid_yield": 0.011804687934463215,
-        "offer_yield": 0.005888100118460974,
-        "mid_yield": 0.008846394026462093,
-        "eod_yield": 0.011012024150265289
+        "bid_yield": 0.01087183104978937,
+        "offer_yield": 0.005422868422440463,
+        "mid_yield": 0.008147349736114917,
+        "eod_yield": 0.010141825165944376
     },
     {
         "Date": "2014-01-10",
@@ -104,97 +104,86 @@
         "offer_price": 100.0,
         "mid_price": 99.99986100000001,
         "eod_price": 99.99975,
-        "bid_yield": 0.010230682540452408,
-        "offer_yield": 6.749708085310221e-9,
-        "mid_yield": 0.005115344645080247,
-        "eod_yield": 0.00920022977518608
+        "bid_yield": 0.0078054063142583225,
+        "offer_yield": 0.0,
+        "mid_yield": 0.0039027031571291612,
+        "eod_yield": 0.0070192483171855795
     },
     {
         "Date": "2014-01-13",
-        "bid_price": 99.999611,
-        "offer_price": 99.999806,
-        "mid_price": 99.9997085,
-        "eod_price": 99.999639,
-        "bid_yield": 0.01590644763646484,
-        "offer_yield": 0.007932615933892244,
-        "mid_yield": 0.01191953178517854,
-        "eod_yield": 0.014761466684546615
-    },
-    {
-        "Date": "2014-01-14",
         "bid_price": 100.0,
         "offer_price": 100.0,
         "mid_price": 100.0,
         "eod_price": 100.0,
-        "bid_yield": 6.353824695508628e-9,
-        "offer_yield": 6.353824695508628e-9,
-        "mid_yield": 6.353824695508628e-9,
-        "eod_yield": 6.353824695508628e-9
+        "bid_yield": 0.0,
+        "offer_yield": 0.0,
+        "mid_yield": 0.0,
+        "eod_yield": 0.0
     },
     {
-        "Date": "2014-01-15",
+        "Date": "2014-01-14",
         "bid_price": 99.99975,
         "offer_price": 99.999875,
         "mid_price": 99.9998125,
         "eod_price": 100.0,
-        "bid_yield": 0.013143311477955616,
-        "offer_yield": 0.006571546749265922,
-        "mid_yield": 0.00985742911361077,
-        "eod_yield": 6.162666283014556e-9
+        "bid_yield": 0.010138914235934725,
+        "offer_yield": 0.0050694507811380445,
+        "mid_yield": 0.007604182508536385,
+        "eod_yield": 0.0
     },
     {
-        "Date": "2014-01-16",
+        "Date": "2014-01-15",
         "bid_price": 99.999778,
         "offer_price": 100.0,
         "mid_price": 99.999889,
         "eod_price": 99.999806,
-        "bid_yield": 0.0136164844856879,
-        "offer_yield": 5.974726665986059e-9,
-        "mid_yield": 0.006808245230207283,
-        "eod_yield": 0.011899038046058198
+        "bid_yield": 0.010128772485588721,
+        "offer_yield": 0.0,
+        "mid_yield": 0.005064386242794361,
+        "eod_yield": 0.008851267171155641
     },
     {
-        "Date": "2014-01-17",
-        "bid_price": 99.999972,
-        "offer_price": 0.0,
-        "mid_price": 49.999986,
-        "eod_price": 100.0,
-        "bid_yield": 0.0034347020527035997,
-        "offer_yield": null,
-        "mid_yield": null,
-        "eod_yield": 5.4359603377766284e-9
-    },
-    {
-        "Date": "2014-01-20",
-        "bid_price": 100.0,
-        "offer_price": 0.0,
-        "mid_price": 50.0,
-        "eod_price": 99.999972,
-        "bid_yield": 5.265262830314059e-9,
-        "offer_yield": null,
-        "mid_yield": null,
-        "eod_yield": 0.005152072311818651
-    },
-    {
-        "Date": "2014-01-21",
+        "Date": "2014-01-16",
         "bid_price": 100.0,
         "offer_price": 100.0,
         "mid_price": 100.0,
         "eod_price": 99.999833,
-        "bid_yield": 5.097992642124705e-9,
-        "offer_yield": 5.097992642124705e-9,
-        "mid_yield": 5.097992642124705e-9,
-        "eod_yield": 0.06146549911404826
+        "bid_yield": 0.0,
+        "offer_yield": 0.0,
+        "mid_yield": 0.0,
+        "eod_yield": 0.008707871685247469
     },
     {
-        "Date": "2014-01-22",
+        "Date": "2014-01-17",
         "bid_price": 99.999833,
         "offer_price": 0.0,
         "mid_price": 49.9999165,
         "eod_price": 99.999944,
-        "bid_yield": null,
+        "bid_yield": 0.010159183632788714,
         "offer_yield": null,
         "mid_yield": null,
-        "eod_yield": null
+        "eod_yield": 0.0034066685744449984
+    },
+    {
+        "Date": "2014-01-21",
+        "bid_price": 100.0,
+        "offer_price": 0.0,
+        "mid_price": 50.0,
+        "eod_price": 99.999972,
+        "bid_yield": 0.0,
+        "offer_yield": null,
+        "mid_yield": null,
+        "eod_yield": 0.005110001430866295
+    },
+    {
+        "Date": "2014-01-22",
+        "bid_price": 99.999972,
+        "offer_price": 0.0,
+        "mid_price": 49.999986,
+        "eod_price": 100.0,
+        "bid_yield": 0.01022000286173259,
+        "offer_yield": null,
+        "mid_yield": null,
+        "eod_yield": 0.0
     }
 ]
