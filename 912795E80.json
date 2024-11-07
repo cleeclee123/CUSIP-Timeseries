@@ -1,14 +1,14 @@
 [
     {
-        "Date": "2008-05-30",
-        "bid_price": 99.93175,
-        "offer_price": 99.931931,
-        "mid_price": 99.93184049999999,
-        "eod_price": 99.948611,
-        "bid_yield": 1.9175587338360156,
-        "offer_yield": 1.9124698760428365,
-        "mid_yield": 1.915014304939426,
-        "eod_yield": 1.4435868448437064
+        "Date": "2008-06-02",
+        "bid_price": 99.948056,
+        "offer_price": 99.948333,
+        "mid_price": 99.9481945,
+        "eod_price": 99.954,
+        "bid_yield": 1.8969413472136154,
+        "offer_yield": 1.886820363477008,
+        "mid_yield": 1.8918808553453117,
+        "eod_yield": 1.679772695440139
     },
     {
         "Date": "2008-06-03",
@@ -67,46 +67,24 @@
     },
     {
         "Date": "2008-06-10",
-        "bid_price": 99.989056,
-        "offer_price": 0.0,
-        "mid_price": 49.994528,
-        "eod_price": 99.994361,
-        "bid_yield": 1.9974986062465474,
-        "offer_yield": null,
-        "mid_yield": null,
-        "eod_yield": 1.0291755352088265
-    },
-    {
-        "Date": "2008-06-11",
         "bid_price": 99.970667,
         "offer_price": 0.0,
         "mid_price": 49.9853335,
         "eod_price": 99.9845,
-        "bid_yield": 10.709686472330759,
+        "bid_yield": 5.3548432361653795,
         "offer_yield": null,
         "mid_yield": null,
-        "eod_yield": 5.658377048443588
+        "eod_yield": 2.829188524221794
     },
     {
-        "Date": "2008-06-13",
+        "Date": "2008-06-11",
         "bid_price": 99.994556,
         "offer_price": 0.0,
         "mid_price": 49.997278,
         "eod_price": 100.0,
-        "bid_yield": null,
+        "bid_yield": 1.9871681814347453,
         "offer_yield": null,
         "mid_yield": null,
-        "eod_yield": null
-    },
-    {
-        "Date": "2008-06-26",
-        "bid_price": 99.948056,
-        "offer_price": 99.948333,
-        "mid_price": 99.9481945,
-        "eod_price": 99.954,
-        "bid_yield": null,
-        "offer_yield": null,
-        "mid_yield": null,
-        "eod_yield": null
+        "eod_yield": 0.0
     }
 ]

@@ -45,25 +45,25 @@
     },
     {
         "Date": "2020-05-27",
-        "bid_price": 99.994722,
-        "offer_price": 99.994986,
-        "mid_price": 99.994854,
-        "eod_price": 99.9935,
-        "bid_yield": 0.09632858422275034,
-        "offer_yield": 0.09151008831587815,
-        "mid_yield": 0.09391933626931424,
-        "eod_yield": 0.11863271112627091
-    },
-    {
-        "Date": "2020-05-28",
         "bid_price": 99.994444,
         "offer_price": 99.995,
         "mid_price": 99.994722,
         "eod_price": 99.994722,
-        "bid_yield": 0.10673961466348938,
-        "offer_yield": 0.09605743445058253,
-        "mid_yield": 0.10139852455703596,
-        "eod_yield": 0.10139850970815824
+        "bid_yield": 0.10140263393031493,
+        "offer_yield": 0.0912545627280534,
+        "mid_yield": 0.09632859832918417,
+        "eod_yield": 0.09632858422275034
+    },
+    {
+        "Date": "2020-05-28",
+        "bid_price": 99.994722,
+        "offer_price": 99.994986,
+        "mid_price": 99.994854,
+        "eod_price": 99.9935,
+        "bid_yield": 0.10139850970815824,
+        "offer_yield": 0.09632640875355593,
+        "mid_yield": 0.09886245923085708,
+        "eod_yield": 0.1248765380276536
     },
     {
         "Date": "2020-05-29",
@@ -166,25 +166,25 @@
     },
     {
         "Date": "2020-06-11",
-        "bid_price": 99.99875,
-        "offer_price": 0.0,
-        "mid_price": 49.999375,
-        "eod_price": 99.999222,
-        "bid_yield": 0.091251140639175,
-        "offer_yield": null,
-        "mid_yield": null,
-        "eod_yield": 0.056794441860526755
-    },
-    {
-        "Date": "2020-06-12",
         "bid_price": 99.998889,
         "offer_price": 0.0,
         "mid_price": 49.9994445,
         "eod_price": 99.999722,
-        "bid_yield": 0.10137987632992715,
+        "bid_yield": 0.08110390106394172,
         "offer_yield": null,
         "mid_yield": null,
-        "eod_yield": 0.02536757052133955
+        "eod_yield": 0.02029405641707164
+    },
+    {
+        "Date": "2020-06-12",
+        "bid_price": 99.99875,
+        "offer_price": 0.0,
+        "mid_price": 49.999375,
+        "eod_price": 99.999222,
+        "bid_yield": 0.11406392579896875,
+        "offer_yield": null,
+        "mid_yield": null,
+        "eod_yield": 0.07099305232565845
     },
     {
         "Date": "2020-06-15",

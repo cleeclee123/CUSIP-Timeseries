@@ -101,35 +101,35 @@
     {
         "Date": "2010-08-12",
         "bid_price": 99.994944,
-        "offer_price": 99.995125,
-        "mid_price": 99.9950345,
-        "eod_price": 99.996111,
+        "offer_price": 99.994944,
+        "mid_price": 99.994944,
+        "eod_price": 99.994944,
         "bid_yield": 0.13182380786876896,
-        "offer_yield": 0.1271044106256908,
-        "mid_yield": 0.1294641092472299,
-        "eod_yield": 0.10139572899421026
+        "offer_yield": 0.13182380786876896,
+        "mid_yield": 0.13182380786876896,
+        "eod_yield": 0.13182380786876896
     },
     {
         "Date": "2010-08-13",
+        "bid_price": 99.994944,
+        "offer_price": 99.995125,
+        "mid_price": 99.9950345,
+        "eod_price": 99.996111,
+        "bid_yield": 0.1419641007817512,
+        "offer_yield": 0.13688167298151316,
+        "mid_yield": 0.13942288688163218,
+        "eod_yield": 0.10919540045530338
+    },
+    {
+        "Date": "2010-08-16",
         "bid_price": 99.995556,
         "offer_price": 99.995694,
         "mid_price": 99.99562499999999,
         "eod_price": 99.99625,
-        "bid_yield": 0.12477939135018179,
-        "offer_yield": 0.12090443691427585,
-        "mid_yield": 0.12284191413222882,
-        "eod_yield": 0.10529241000374091
-    },
-    {
-        "Date": "2010-08-16",
-        "bid_price": 99.994944,
-        "offer_price": 99.994944,
-        "mid_price": 99.994944,
-        "eod_price": 99.994944,
-        "bid_yield": 0.18455333101627655,
-        "offer_yield": 0.18455333101627655,
-        "mid_yield": 0.18455333101627655,
-        "eod_yield": 0.18455333101627655
+        "bid_yield": 0.16221320875523632,
+        "offer_yield": 0.1571757679885586,
+        "mid_yield": 0.15969448837189745,
+        "eod_yield": 0.13688013300486318
     },
     {
         "Date": "2010-08-17",
@@ -155,47 +155,47 @@
     },
     {
         "Date": "2010-08-19",
-        "bid_price": 99.997278,
-        "offer_price": 99.997375,
-        "mid_price": 99.9973265,
-        "eod_price": 99.997667,
-        "bid_yield": 0.1419367206606889,
-        "offer_yield": 0.13687859306279523,
-        "mid_yield": 0.13940765686174206,
-        "eod_yield": 0.12165212385797214
-    },
-    {
-        "Date": "2010-08-20",
-        "bid_price": 99.999083,
-        "offer_price": 0.0,
-        "mid_price": 49.9995415,
-        "eod_price": 99.999389,
-        "bid_yield": 0.05578467821223686,
-        "offer_yield": null,
-        "mid_yield": null,
-        "eod_yield": 0.0371693937720493
-    },
-    {
-        "Date": "2010-08-23",
         "bid_price": 99.998167,
         "offer_price": 0.0,
         "mid_price": 49.9990835,
         "eod_price": 99.999083,
-        "bid_yield": 0.2230190879404731,
+        "bid_yield": 0.09557960911734562,
         "offer_yield": null,
         "mid_yield": null,
-        "eod_yield": 0.11156935642447371
+        "eod_yield": 0.047815438467631595
     },
     {
-        "Date": "2010-08-24",
+        "Date": "2010-08-20",
+        "bid_price": 99.997278,
+        "offer_price": 99.997375,
+        "mid_price": 99.9973265,
+        "eod_price": 99.997667,
+        "bid_yield": 0.16559284077080372,
+        "offer_yield": 0.1596916919065944,
+        "mid_yield": 0.16264226633869905,
+        "eod_yield": 0.14192747783430082
+    },
+    {
+        "Date": "2010-08-23",
         "bid_price": 99.999444,
         "offer_price": 0.0,
         "mid_price": 49.999722,
         "eod_price": 99.999722,
-        "bid_yield": 0.10147056417690431,
+        "bid_yield": 0.06764704278460287,
         "offer_yield": null,
         "mid_yield": null,
-        "eod_yield": 0.0507351410426791
+        "eod_yield": 0.03382342736178606
+    },
+    {
+        "Date": "2010-08-24",
+        "bid_price": 99.999083,
+        "offer_price": 0.0,
+        "mid_price": 49.9995415,
+        "eod_price": 99.999389,
+        "bid_yield": 0.16735403463671056,
+        "offer_yield": null,
+        "mid_yield": null,
+        "eod_yield": 0.11150818131614791
     },
     {
         "Date": "2010-08-25",
