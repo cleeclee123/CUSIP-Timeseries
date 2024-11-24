@@ -1,5 +1,16 @@
 [
     {
+        "Date": "2008-05-30",
+        "bid_price": 100.46875,
+        "offer_price": 0.0,
+        "mid_price": 50.234375,
+        "eod_price": 100.46875,
+        "bid_yield": 2.063513813401081,
+        "offer_yield": 36811.29943502603,
+        "mid_yield": 18406.681474419715,
+        "eod_yield": 2.063513813401081
+    },
+    {
         "Date": "2008-06-02",
         "bid_price": 100.5,
         "offer_price": 0.0,
@@ -45,14 +56,14 @@
     },
     {
         "Date": "2008-06-06",
-        "bid_price": 100.375,
+        "bid_price": 100.4375,
         "offer_price": 0.0,
-        "mid_price": 50.1875,
-        "eod_price": 100.375,
-        "bid_yield": 2.3247683971260007,
+        "mid_price": 50.21875,
+        "eod_price": 100.4375,
+        "bid_yield": 1.8953620403530074,
         "offer_yield": 39479.99999988889,
-        "mid_yield": 19741.16238414301,
-        "eod_yield": 2.3247683971260007
+        "mid_yield": 19740.947680964622,
+        "eod_yield": 1.8953620403530074
     },
     {
         "Date": "2008-06-09",
@@ -67,14 +78,14 @@
     },
     {
         "Date": "2008-06-10",
-        "bid_price": 100.4375,
+        "bid_price": 100.375,
         "offer_price": 0.0,
-        "mid_price": 50.21875,
-        "eod_price": 100.4375,
-        "bid_yield": 1.7750492016918433,
+        "mid_price": 50.1875,
+        "eod_price": 100.375,
+        "bid_yield": 2.221391797613554,
         "offer_yield": 40426.060605769475,
-        "mid_yield": 20213.917827485584,
-        "eod_yield": 1.7750492016918433
+        "mid_yield": 20214.140998783543,
+        "eod_yield": 2.221391797613554
     },
     {
         "Date": "2008-06-11",
@@ -253,15 +264,15 @@
         "eod_yield": 1.7095622769120569
     },
     {
-        "Date": "2008-07-03",
+        "Date": "2008-07-04",
         "bid_price": 100.1875,
         "offer_price": 0.0,
         "mid_price": 50.09375,
         "eod_price": 100.1875,
-        "bid_yield": 2.4162469410926906,
-        "offer_yield": 63554.31302277071,
-        "mid_yield": 31778.3646348559,
-        "eod_yield": 2.4162469410926906
+        "bid_yield": 2.1065804217857864,
+        "offer_yield": 70112.23628691981,
+        "mid_yield": 35057.171433670796,
+        "eod_yield": 2.1065804217857864
     },
     {
         "Date": "2008-07-07",
@@ -389,22 +400,22 @@
         "bid_price": 100.0625,
         "offer_price": 0.0,
         "mid_price": 50.03125,
-        "eod_price": 100.09375,
+        "eod_price": 100.0625,
         "bid_yield": 2.1046315972939413,
         "offer_yield": 190577.01149201172,
         "mid_yield": 95289.5580618045,
-        "eod_yield": 0.7165762499457253
+        "eod_yield": 2.1046315972939413
     },
     {
         "Date": "2008-07-23",
         "bid_price": 100.0625,
         "offer_price": 0.0,
         "mid_price": 50.03125,
-        "eod_price": 100.0625,
+        "eod_price": 100.09375,
         "bid_yield": 1.7078778210470764,
         "offer_yield": 216527.99999999785,
         "mid_yield": 108264.85393890945,
-        "eod_yield": 1.7078778210470764
+        "eod_yield": 0.12195407959800778
     },
     {
         "Date": "2008-07-24",
@@ -440,6 +451,17 @@
         "eod_yield": -0.6707069894918584
     },
     {
+        "Date": "2008-07-29",
+        "bid_price": 100.0,
+        "offer_price": 0.0,
+        "mid_price": 50.0,
+        "eod_price": 100.0,
+        "bid_yield": 4.87870270866004,
+        "offer_yield": 1464245.3038076893,
+        "mid_yield": 732125.091255199,
+        "eod_yield": 4.87870270866004
+    },
+    {
         "Date": "2008-07-30",
         "bid_price": 100.0,
         "offer_price": 0.0,
@@ -449,16 +471,5 @@
         "offer_yield": null,
         "mid_yield": null,
         "eod_yield": -3.0
-    },
-    {
-        "Date": "2008-08-01",
-        "bid_price": 100.0,
-        "offer_price": 0.0,
-        "mid_price": 50.0,
-        "eod_price": 100.0,
-        "bid_yield": 4.997254255902866,
-        "offer_yield": null,
-        "mid_yield": null,
-        "eod_yield": 4.997254255902866
     }
 ]
